@@ -16,9 +16,6 @@ ZQuake is simply a combination of 3 awesome open source tools.
 #####OpenSSH for Windows
 >OpenSSH for Windows An installer for a minimal installation of the Cygwin environment suitable for running an OpenSSH server on the Windows platform.
 
-##Download
-Download the archieved files needed from [here]. 
-
 ##How To Use
 1. Install AutoHotKey
 2. Compile the 'ZQuake_source.ahk' scripting
@@ -30,17 +27,17 @@ Download the archieved files needed from [here].
 8. Recommended to place a shortcut for 'ZQuake.exe' in your startup folder to start on boot
 
 ##Example directory Setup
--rwxr-xr-x 1 zantalis 1049089  800768 Oct  3  2011 Console.exe
--rwxr-xr-x 1 zantalis 1049089  249856 Oct  3  2011 ConsoleHook.dll
--rwxr-xr-x 1 zantalis 1049089 2463232 Jan  6  2010 FreeImage.dll
--rwxr-xr-x 1 zantalis 1049089   88064 Jan  6  2010 FreeImagePlus.dll
--rw-r--r-- 1 zantalis 1049089   14929 Apr 27  2015 GPLv2.txt
-drwxr-xr-x 1 zantalis 1049089       0 Apr 23  2015 OpenSSH/
--rwxr-xr-x 1 zantalis 1049089 1202688 Jun 24  2015 ZQuake.exe
--rw-r--r-- 1 zantalis 1049089    3583 Jun 24  2015 ZQuake_source.ahk
--rw-r--r-- 1 zantalis 1049089  155349 Oct  3  2011 console.chm
--rw-r--r-- 1 zantalis 1049089    6238 Apr 24  2015 console.xml
--rw-r--r-- 1 zantalis 1049089    9662 Apr 21  2015 ico_sys_command.ico
+-rwxr-xr-x 1 Console.exe
+-rwxr-xr-x 1 ConsoleHook.dll
+-rwxr-xr-x 1 FreeImage.dll
+-rwxr-xr-x 1 FreeImagePlus.dll
+-rw-r--r-- 1 GPLv2.txt
+drwxr-xr-x 1 OpenSSH/
+-rwxr-xr-x 1 ZQuake.exe
+-rw-r--r-- 1 ZQuake_source.ahk
+-rw-r--r-- 1 console.chm
+-rw-r--r-- 1 console.xml
+-rw-r--r-- 1 ico_sys_command.ico
 
 
 ##Usage - Hot Keys
