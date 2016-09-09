@@ -27,17 +27,17 @@ ZQuake is simply a combination of 3 awesome open source tools.
 8. Recommended to place a shortcut for 'ZQuake.exe' in your startup folder to start on boot
 
 ##Example directory Setup
--rwxr-xr-x 1 Console.exe
--rwxr-xr-x 1 ConsoleHook.dll
--rwxr-xr-x 1 FreeImage.dll
--rwxr-xr-x 1 FreeImagePlus.dll
--rw-r--r-- 1 GPLv2.txt
-drwxr-xr-x 1 OpenSSH/
--rwxr-xr-x 1 ZQuake.exe
--rw-r--r-- 1 ZQuake_source.ahk
--rw-r--r-- 1 console.chm
--rw-r--r-- 1 console.xml
--rw-r--r-- 1 ico_sys_command.ico
+>-rwxr-xr-x 1 Console.exe
+>-rwxr-xr-x 1 ConsoleHook.dll
+>-rwxr-xr-x 1 FreeImage.dll
+>-rwxr-xr-x 1 FreeImagePlus.dll
+>-rw-r--r-- 1 GPLv2.txt
+>drwxr-xr-x 1 OpenSSH/
+>-rwxr-xr-x 1 ZQuake.exe
+>-rw-r--r-- 1 ZQuake_source.ahk
+>-rw-r--r-- 1 console.chm
+>-rw-r--r-- 1 console.xml
+>-rw-r--r-- 1 ico_sys_command.ico
 
 
 ##Usage - Hot Keys
